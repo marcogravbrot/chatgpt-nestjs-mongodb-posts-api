@@ -24,7 +24,9 @@
 
 ## Description
 
-[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
+A [NestJS](https://github.com/nestjs/nest) Posts REST API connected to MongoDB. Written by ChatGPT and me.
+
+![lol](https://i.imgur.com/aCK9vrZ.png)
 
 ## Installation
 
